@@ -1,2 +1,2 @@
 
-I am a writer not a coder.
+It is a webpage with dynamic cherry blossom / sakura falling in the wind.
